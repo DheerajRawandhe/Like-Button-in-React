@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # Like-Button-in-React
 A Like button using React and managed the count using React state. a heart icon for the like button.
-=======
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
